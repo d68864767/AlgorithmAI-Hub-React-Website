@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+
+# Build
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# Miscellaneous
+.DS_Store
